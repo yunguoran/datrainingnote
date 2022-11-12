@@ -1,2 +1,2 @@
 # datrainingnote
-Training note for DA
+Training note for DA.
